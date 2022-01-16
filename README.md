@@ -6,8 +6,8 @@
 
 - 🌱 I’m maintainer of CNCF chaos-engineering project Litmus
 - 🥅 I'm a Certified Kubernetes Administrator (CKA) and possess sound knowledge on microservices architecture.
-- 🔭 I'm a contribute to other opensource projects in the cloud-native ecosystem such as CNF Conformance,Pumba,OpenEBS etc.
-- 🔭 Love to work on Cloud technologies (AWS, GCP, Azure, VMWare) & have also served as an SRE at MayaData & ChaosNative
+- 🔭 I'm a contribute to other opensource projects in the cloud-native ecosystem such as CNF Conformance, Pumba, OpenEBS etc.
+- 🔭 Love to work on Cloud technologies (AWS, GCP, Azure, VMWare) & have also served as a SRE.
 - 🥅 2022 Goals: To learn & contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play tabla 🎷
 
