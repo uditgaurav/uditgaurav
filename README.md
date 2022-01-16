@@ -1,6 +1,6 @@
 ### Hi there, I'm Udit - aka [uditgaurav](https://www.linkedin.com/in/uditgaurav/) 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/udit_gaurav15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%udit_gaurav15&screen_name=udit_gaurav15)
+[![Twitter Follow](https://img.shields.io/twitter/follow/udit_gaurav15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fudit_gaurav15&screen_name=udit_gaurav15)
 
 ## I'm a Learner, Developer, and Maintainer!!
 
