@@ -31,6 +31,9 @@
 - [GitHub Chaos Actions in Your CI/CD workflow [Part-1]](https://dev.to/uditgaurav/github-chaos-actions-in-your-ci-cd-workflow-mke)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Udit's GitHub stats](https://github-readme-stats.vercel.app/api?username=uditgaurav)](https://github.com/uditgaurav/github-readme-stats)
 
 [twitter]: https://twitter.com/udit_gaurav15
 [youtube]: https://www.youtube.com/channel/UCa57PMqmz_j0wnteRa9nCaw
